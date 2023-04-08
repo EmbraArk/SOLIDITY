@@ -2,6 +2,8 @@
 
 pragma solidity ^0.8.0;
 
+
+// 0xBF77293F2166B6Dd5292325Dd76D0d0fC14996F0
 contract peerTwopeerShop{
     address public owner;
     //  mapping имя: payments -- для хранения данных о покупателях
